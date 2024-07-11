@@ -8,4 +8,4 @@ document:
   repo: https://github.com/mcdougles/iLabKnowledge
   commit: 73f1ccea63c3168610c9090bf22f9327b290f5e0
   patterns:
-    - /docs/zos/deployment/wazi-deployments/*.md
+    - ./docs/zos/deployment/wazi-deployments/*.md
