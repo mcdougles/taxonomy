@@ -1,8 +1,8 @@
 created_by: zais_watsonx_challenge
 domain: it
 seed_examples:
-  - answer:
-    question:
+  - answer: "Wazi Deploy is a CI/CD deployment too for Mainframe application. "
+    question: "What is Wazi Deploy?"
 task_description: ""
 document:
   repo: https://github.com/mcdougles/iLabKnowledge
