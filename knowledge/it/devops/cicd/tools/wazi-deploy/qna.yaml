@@ -6,6 +6,6 @@ seed_examples:
 task_description: ""
 document:
   repo: https://github.com/mcdougles/iLabKnowledge
-  commit: a808825e5418bf03bb8cfa23e9b1a665beeb4eb8
+  commit: 73f1ccea63c3168610c9090bf22f9327b290f5e0
   patterns:
     - /docs/zos/deployment/wazi-deployments/*.md
