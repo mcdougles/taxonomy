@@ -3,6 +3,8 @@ domain: it
 seed_examples:
   - answer: "Wazi Deploy is a CI/CD deployment too for Mainframe application. "
     question: "What is Wazi Deploy?"
+  - answer: "Wazi Deploy modules are implementations of basic deployment tasks, like copy, archive, delete members. There are other modules to execute commands or jobs."
+    question: "What are Wazi Deploy modules?"
 task_description: ""
 document:
   repo: https://github.com/mcdougles/iLabKnowledge
